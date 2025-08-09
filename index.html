@@ -7,91 +7,7 @@
   <title>Vocabulary</title>
     <link rel="icon" href="https://github.com/Panbap/anh/blob/main/icon1.png?raw=true" type="image/png">
     <link href="https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: "Playpen Sans", cursive;
-      background: linear-gradient(to right, #e0f7fa, #fff);
-      padding: 30px;
-      margin: 0;
-      color: #333;
-    }
-
-    h1 {
-      text-align: center;
-      color: #00796b;
-      font-size: 2.5em;
-      margin-bottom: 30px;
-      text-shadow: 1px 1px 0 #fff;
-    }
-
-    #word-list {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-
-    .card {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 16px;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
-      margin-bottom: 20px;
-      transition: transform 0.2s, background-color 0.3s;
-      border-left: 5px solid #26a69a;
-    }
-
-    .card:hover {
-      background-color: #f1fdfd;
-      transform: translateY(-3px);
-    }
-
-    .card strong {
-      font-size: 1.2em;
-      color: #00796b;
-    }
-
-    .card em {
-      color: #999;
-      margin-left: 10px;
-      font-style: normal;
-      font-weight: 500;
-    }
-
-    .details {
-      display: none;
-      margin-top: 12px;
-      line-height: 1.6;
-    }
-
-    .details div {
-      margin-top: 5px;
-      color: #444;
-    }
-
-    .pronounce {
-      margin-top: 10px;
-      display: inline-block;
-      color: #0288d1;
-      font-weight: 500;
-      cursor: pointer;
-      transition: color 0.2s;
-    }
-
-    .pronounce:hover {
-      text-decoration: underline;
-      color: #01579b;
-    }
-
-    @media (max-width: 600px) {
-      .card {
-        padding: 15px;
-        font-size: 0.95em;
-      }
-
-      h1 {
-        font-size: 2em;
-      }
-    }
-  </style>
+    <link rel="stylesheet" href="./assets/styles.css">
 </head>
 
 <body>
@@ -99,45 +15,7 @@
   <h1>Vocabulary</h1>
   <div id="word-list"></div>
 
-  <script>
-    const container = document.getElementById("word-list");
-
-    fetch('./assets/Vocabulary.json')
-      .then(response => response.json())
-      .then(data => {
-        data.forEach((item, index) => {
-          const card = document.createElement("div");
-          card.className = "card";
-          card.innerHTML = `
-          <strong>${index + 1}. ${item.word}</strong> <em>${item.pronunciation}</em>
-          <div class="details">
-            <div>💡 Meaning: ${item.meaning}</div>
-            <div>📝 Example: ${item.example}</div>
-          </div>
-          <div class="pronounce">🔊 Play Audio</div>
-        `;
-
-          card.addEventListener("click", (e) => {
-            if (!e.target.classList.contains("pronounce")) {
-              const details = card.querySelector(".details");
-              details.style.display = details.style.display === "block" ? "none" : "block";
-            }
-          });
-
-          card.querySelector(".pronounce").addEventListener("click", (e) => {
-            e.stopPropagation();
-            const audio = new Audio(item.audio);
-            audio.play();
-          });
-
-          container.appendChild(card);
-        });
-      })
-      .catch(error => {
-        console.error("Lỗi khi tải dữ liệu:", error);
-        container.innerHTML = "<p>Không thể tải dữ liệu từ vựng.</p>";
-      });
-  </script>
+  <script src="./assets/script.js"></script>
 
 </body>
 
