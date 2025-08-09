@@ -1,0 +1,282 @@
+[
+  {
+    "word": "approve",
+    "pronunciation": "/əˈpruːv/",
+    "meaning": "chấp thuận, phê duyệt",
+    "example": "The manager approved the budget proposal.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=approve&type=2"
+  },
+  {
+    "word": "conference",
+    "pronunciation": "/ˈkɑːnfərəns/",
+    "meaning": "hội nghị",
+    "example": "The annual sales conference will be held in Tokyo.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conference&type=2"
+  },
+  {
+    "word": "deadline",
+    "pronunciation": "/ˈdedlaɪn/",
+    "meaning": "hạn chót",
+    "example": "We must meet the project deadline.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=deadline&type=2"
+  },
+  {
+    "word": "negotiate",
+    "pronunciation": "/nɪˈɡoʊʃieɪt/",
+    "meaning": "đàm phán, thương lượng",
+    "example": "They negotiated a better price for the contract.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=negotiate&type=2"
+  },
+  {
+    "word": "contract",
+    "pronunciation": "/ˈkɒntrækt/",
+    "meaning": "hợp đồng",
+    "example": "The company signed a two-year service contract.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=contract&type=2"
+  },
+  {
+    "word": "profit",
+    "pronunciation": "/ˈprɒfɪt/",
+    "meaning": "lợi nhuận",
+    "example": "Our profits increased by 15% last quarter.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=profit&type=2"
+  },
+  {
+    "word": "investment",
+    "pronunciation": "/ɪnˈvestmənt/",
+    "meaning": "sự đầu tư",
+    "example": "Real estate is considered a safe investment.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=investment&type=2"
+  },
+  {
+    "word": "schedule",
+    "pronunciation": "/ˈskedʒuːl/",
+    "meaning": "lịch trình",
+    "example": "The meeting is scheduled for 3 p.m. tomorrow.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=schedule&type=2"
+  },
+  {
+    "word": "promotion",
+    "pronunciation": "/prəˈmoʊʃn/",
+    "meaning": "sự thăng chức; khuyến mãi",
+    "example": "She received a promotion after two years of hard work.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=promotion&type=2"
+  },
+  {
+    "word": "candidate",
+    "pronunciation": "/ˈkændɪdeɪt/",
+    "meaning": "ứng viên",
+    "example": "The company interviewed five candidates for the position.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=candidate&type=2"
+  },
+  {
+    "word": "department",
+    "pronunciation": "/dɪˈpɑːrtmənt/",
+    "meaning": "phòng ban",
+    "example": "He works in the marketing department.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=department&type=2"
+  },
+  {
+    "word": "invoice",
+    "pronunciation": "/ˈɪnvɔɪs/",
+    "meaning": "hóa đơn",
+    "example": "The supplier sent an invoice for the goods.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=invoice&type=2"
+  },
+  {
+    "word": "supplier",
+    "pronunciation": "/səˈplaɪər/",
+    "meaning": "nhà cung cấp",
+    "example": "We changed to a new supplier for better prices.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=supplier&type=2"
+  },
+  {
+    "word": "merger",
+    "pronunciation": "/ˈmɜːrdʒər/",
+    "meaning": "sự sáp nhập",
+    "example": "The merger created the largest company in the industry.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=merger&type=2"
+  },
+  {
+    "word": "overtime",
+    "pronunciation": "/ˈoʊvərtaɪm/",
+    "meaning": "làm thêm giờ",
+    "example": "He worked overtime to finish the report.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overtime&type=2"
+  },
+  {
+    "word": "policy",
+    "pronunciation": "/ˈpɑːləsi/",
+    "meaning": "chính sách",
+    "example": "The company has a strict privacy policy.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=policy&type=2"
+  },
+  {
+    "word": "requirement",
+    "pronunciation": "/rɪˈkwaɪərmənt/",
+    "meaning": "yêu cầu, điều kiện",
+    "example": "A degree is one of the job requirements.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=requirement&type=2"
+  },
+  {
+    "word": "shipment",
+    "pronunciation": "/ˈʃɪpmənt/",
+    "meaning": "lô hàng, việc giao hàng",
+    "example": "The shipment will arrive next Monday.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shipment&type=2"
+  },
+  {
+    "word": "warehouse",
+    "pronunciation": "/ˈwerhaʊs/",
+    "meaning": "nhà kho",
+    "example": "The goods are stored in the warehouse.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=warehouse&type=2"
+  },
+  {
+    "word": "agenda",
+    "pronunciation": "/əˈdʒendə/",
+    "meaning": "chương trình nghị sự",
+    "example": "The agenda for the meeting was sent to all participants.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=agenda&type=2"
+  },
+  {
+    "word": "negotiation",
+    "pronunciation": "/nɪˌɡoʊʃiˈeɪʃn/",
+    "meaning": "cuộc đàm phán, thương lượng",
+    "example": "The negotiation between the two companies lasted for several weeks.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=negotiation&type=2"
+  },
+  {
+    "word": "invoice",
+    "pronunciation": "/ˈɪnvɔɪs/",
+    "meaning": "hóa đơn",
+    "example": "Please send me the invoice for the recent purchase.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=invoice&type=2"
+  },
+  {
+    "word": "merger",
+    "pronunciation": "/ˈmɜːrdʒər/",
+    "meaning": "sự sáp nhập (công ty)",
+    "example": "The merger of the two banks created the largest financial institution in the country.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=merger&type=2"
+  },
+  {
+    "word": "productivity",
+    "pronunciation": "/ˌproʊdʌkˈtɪvəti/",
+    "meaning": "năng suất",
+    "example": "The new software increased the team's productivity significantly.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=productivity&type=2"
+  },
+  {
+    "word": "promotion",
+    "pronunciation": "/prəˈmoʊʃn/",
+    "meaning": "thăng chức; khuyến mãi",
+    "example": "She received a promotion to senior manager last month.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=promotion&type=2"
+  },
+  {
+    "word": "revenue",
+    "pronunciation": "/ˈrevənjuː/",
+    "meaning": "doanh thu",
+    "example": "The company's revenue increased by 15% compared to last year.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=revenue&type=2"
+  },
+  {
+    "word": "supervisor",
+    "pronunciation": "/ˈsuːpərvaɪzər/",
+    "meaning": "người giám sát",
+    "example": "Please report any issues to your supervisor immediately.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=supervisor&type=2"
+  },
+  {
+    "word": "shipment",
+    "pronunciation": "/ˈʃɪpmənt/",
+    "meaning": "lô hàng",
+    "example": "The shipment will arrive at the port tomorrow morning.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=shipment&type=2"
+  },
+  {
+    "word": "client",
+    "pronunciation": "/ˈklaɪənt/",
+    "meaning": "khách hàng",
+    "example": "We always try to provide the best service to our clients.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=client&type=2"
+  },
+  {
+    "word": "contract",
+    "pronunciation": "/ˈkɑːntrækt/",
+    "meaning": "hợp đồng",
+    "example": "The contract will be signed by both parties next week.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=contract&type=2"
+  },
+  {
+    "word": "overtime",
+    "pronunciation": "/ˈoʊvərtaɪm/",
+    "meaning": "làm thêm giờ",
+    "example": "Employees will be paid extra for overtime work.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=overtime&type=2"
+  },
+  {
+    "word": "candidate",
+    "pronunciation": "/ˈkændɪdeɪt/",
+    "meaning": "ứng viên",
+    "example": "The company interviewed five candidates for the position.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=candidate&type=2"
+  },
+  {
+    "word": "department",
+    "pronunciation": "/dɪˈpɑːrtmənt/",
+    "meaning": "phòng ban",
+    "example": "She works in the marketing department.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=department&type=2"
+  },
+  {
+    "word": "advertisement",
+    "pronunciation": "/ˌædvərˈtaɪzmənt/",
+    "meaning": "quảng cáo",
+    "example": "The company launched a new advertisement campaign last week.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=advertisement&type=2"
+  },
+  {
+    "word": "feedback",
+    "pronunciation": "/ˈfiːdbæk/",
+    "meaning": "phản hồi",
+    "example": "We value customer feedback to improve our products.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=feedback&type=2"
+  },
+  {
+    "word": "investment",
+    "pronunciation": "/ɪnˈvestmənt/",
+    "meaning": "sự đầu tư",
+    "example": "The government encourages foreign investment in the country.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=investment&type=2"
+  },
+  {
+    "word": "budget",
+    "pronunciation": "/ˈbʌdʒɪt/",
+    "meaning": "ngân sách",
+    "example": "We need to discuss the budget for next quarter.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=budget&type=2"
+  },
+  {
+    "word": "agenda",
+    "pronunciation": "/əˈdʒendə/",
+    "meaning": "chương trình nghị sự",
+    "example": "The first item on the agenda is the quarterly report.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=agenda&type=2"
+  },
+  {
+    "word": "approve",
+    "pronunciation": "/əˈpruːv/",
+    "meaning": "chấp thuận, phê duyệt",
+    "example": "The manager approved the budget proposal.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=approve&type=2"
+  },
+  {
+    "word": "conference",
+    "pronunciation": "/ˈkɑːnfərəns/",
+    "meaning": "hội nghị",
+    "example": "The annual sales conference will be held in Tokyo.",
+    "audio": "https://dict.youdao.com/dictvoice?audio=conference&type=2"
+  }
+]
